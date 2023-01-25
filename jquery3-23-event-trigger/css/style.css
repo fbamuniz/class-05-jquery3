@@ -1,0 +1,18 @@
+div {
+    display: flex;
+}
+
+#area {
+    width: 200px;
+    height: 200px;
+    background-color: #a6c181;
+    border-radius: 50%;
+}
+
+#area2 {
+    width: 200px;
+    height: 200px;
+    background-color: #ad5d69;
+    margin-left: 10px;
+    border-radius: 50%;
+}

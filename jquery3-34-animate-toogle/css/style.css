@@ -1,0 +1,13 @@
+.area {
+    border: 1px solid #000;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: #1867c0;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}

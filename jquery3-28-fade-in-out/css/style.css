@@ -1,0 +1,15 @@
+.area {
+    border: 3px solid #000;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+    background-color: #1867c0;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium';
+    position: absolute;
+    left: 40px;
+    top: 50px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}

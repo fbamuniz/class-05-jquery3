@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+#menus {
+    height: 150px;
+    background-color: #c0c0c0;
+    display: flex;
+    width: 100%;
+}
+
+.btnMenu {
+    width: 250px;
+    margin: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#menus {
+    display: flex;
+    width: 100%;
+}
+
+#controle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #c0c0c0;
+    padding: 5px;
+    border-radius: 0 0 10px 10px;
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+#controle button {
+    margin: 5px;
+}
