@@ -5,7 +5,7 @@ $("#btnShow").click(
     }
 )
 
-// O método fadeIn() aplica opacidade gradativa máxima ao elemento
+// O método fadeOut() aplica opacidade gradativa máxima ao elemento
 $("#btnHide").click(
     function () {
         $("#area").fadeOut(1000);
