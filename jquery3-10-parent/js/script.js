@@ -1,4 +1,4 @@
-//Teste 01: O método parent() aplica somente no elemento acima
+//Teste 01: O método parent() aplica modificações somente no elemento acima
 $("p").parent().css({"border": "3px solid green", "padding": "15px" })
 $("li").parent().css({ "border": "3px solid red", "padding": "15px" })
 $("ul").parent().css({ "border": "3px solid blue", "padding": "15px" })

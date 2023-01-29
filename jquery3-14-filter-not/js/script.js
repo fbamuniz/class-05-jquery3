@@ -3,7 +3,7 @@
     "color": "#ff0000"
 })
 
-//O método note() permite uma nova formatação a partir da busca da classe (diferente do nome buscado)
+//O método not() permite uma nova formatação a partir da busca da classe (diferente do nome buscado)
 $("p").not(".borda").css({
     "color": "#ff0000"
 })
