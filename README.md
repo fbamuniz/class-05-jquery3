@@ -51,7 +51,6 @@ No vídeo abaixo da Hostinger Brasil, é apresentado um pequeno resumo do que é
 
 # Como executar
 
-## Front end Web
 Pré-requisitos: 
 - Visual Studio Code
 - GIT
@@ -62,11 +61,10 @@ git clone https://github.com/fbamuniz/class-04-jquery3.git
 
 ```
 
-## Bibliografia das aulas
+# Bibliografia das aulas
 
 - DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books. 2016.
 - MEYER, E. S. CSS – técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.
-
 
 # Autor
 
