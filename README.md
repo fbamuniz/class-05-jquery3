@@ -8,6 +8,8 @@ O jQuery é então uma biblioteca de funções em JavaScript que interage com o 
 
 A sintaxe do jQuery foi desenvolvida para simplificar a navegação em documentos HTML, a seleção de elementos DOM, criar animações, manipular eventos, desenvolver aplicações AJAX e criação de plugins sobre ela. Permitindo aos desenvolvedores criarem camadas de abstração para interações de baixo nível de modo simplificado em aplicações Web de grande complexidade.
 
+![Alt Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 O jQuery é leve, seu tamanho é em torno de 30kb, extensível, oferece suporte a plug-ins e conta ainda com uma grande equipe de desenvolvedores que vem diariamente adicionando novos recursos e funções a está biblioteca, nos disponibilizando uma grande quantidade de controles para interface.
 
 **Podemos utilizar a jQuery para**:
@@ -69,7 +71,6 @@ git clone https://github.com/fbamuniz/class-04-jquery3.git
 
 # Autor
 
-Prof. Frederico Barbosa Muniz 
-https://linktr.ee/fbamuniz
+Prof. Frederico Barbosa Muniz
 
-![Alt Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+https://linktr.ee/fbamuniz
