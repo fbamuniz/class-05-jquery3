@@ -1,6 +1,6 @@
 # jQuery3
 ![NPM](https://img.shields.io/npm/l/react)
-# Um breve resumo
+# Introdução
 
 Em 2006, John Resig era um desenvolvedor Web que trabalhava em seus próprios projetos. Ele estava frustrado com a dificuldade de escrever códigos em JavaScript que funcionasse em vários navegadores, então decidiu escrever sua própria biblioteca JavaScript para resolver os seus problemas. Eis que surgi o jQuery. Em 16 de janeiro de 2006, John Resig deu uma palestra sobre sua nova biblioteca no BarCamp em Nova York, para um pequeno grupo de desenvolvedores Web, e publicou isso em seu blog.
 
