@@ -73,4 +73,4 @@ Prof. Frederico Barbosa Muniz
 
 https://linktr.ee/fbamuniz
 
-![Alt Text](https://giphy.com/gifs/videos-end-looped-gz945ghj1zMyI)
+![Alt Text](https://media.giphy.com/media/gz945ghj1zMyI/giphy.gif)
