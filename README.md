@@ -26,6 +26,7 @@ O jQuery foi desenvolvido para ser uma biblioteca com suporte a qualquer navegad
 Com o jQuery possuímos suporte também ao CSS3, onde podemos utilizar seletores CSS3, mesmo que o navegador não tenha suporte a uma determinada folha de estilo. Isso é possível porque o próprio jQuery implementa os seletores CSS3, o que faz com que ele seja independente do navegador em que estiver sendo executado.
 
 **Construtor jQuery**
+
 Com o jQuery temos que utilizar a função $() para encontrarmos um elemento HTML dentro da aplicação e utilizarmos as funções da biblioteca. Essa função é tecnicamente conhecida como **construtor** ou função construtora e ela estará presente em todas as aplicações que utilizarmos o jQuery.
 
 É denominada desse modo para ser fácil de decorar e o fato de se chamar $ evita a possibilidade de ocorrer conflitos com outras funções da biblioteca do usuário. Ocasionalmente podemos vir a utilizar alguma outra biblioteca que também tenha como uso uma função chamada $. Caso isso aconteça, podemos usar como alternativa a função jQuery().
