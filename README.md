@@ -70,6 +70,6 @@ git clone https://github.com/fbamuniz/class-04-jquery3.git
 # Autor
 
 Prof. Frederico Barbosa Muniz 
-
 https://linktr.ee/fbamuniz
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
