@@ -1,6 +1,6 @@
 # jQuery3
 ![NPM](https://img.shields.io/npm/l/react)
-# História
+# Um breve resumo
 
 Em 2006, John Resig era um desenvolvedor Web que trabalhava em seus próprios projetos. Ele estava frustrado com a dificuldade de escrever códigos em JavaScript que funcionasse em vários navegadores, então decidiu escrever sua própria biblioteca JavaScript para resolver os seus problemas. Eis que surgi o jQuery. Em 16 de janeiro de 2006, John Resig deu uma palestra sobre sua nova biblioteca no BarCamp em Nova York, para um pequeno grupo de desenvolvedores Web, e publicou isso em seu blog.
 
@@ -30,7 +30,7 @@ Com o jQuery temos que utilizar a função $() para encontrarmos um elemento HTM
 
 É denominada desse modo para ser fácil de decorar e o fato de se chamar $ evita a possibilidade de ocorrer conflitos com outras funções da biblioteca do usuário. Ocasionalmente podemos vir a utilizar alguma outra biblioteca que também tenha como uso uma função chamada $. Caso isso aconteça, podemos usar como alternativa a função jQuery().
 
-O construtor faz uso do seguinte parâmetro, onde o alvo é um seletor CSS para TAG, ID ou classe.Vejamos alguns exemplo de sua utilização.
+O construtor faz uso do seguinte parâmetro, onde o alvo é um seletor CSS para TAG, ID ou classe. Vejamos alguns exemplo de sua utilização.
 ```javascript
 $('h1')
 $('p')
@@ -39,7 +39,7 @@ $('.teste')
 ```
 Muitos desenvolvedores Web amaram a simplicidade e o poder do jQuery, e a biblioteca de John logo ficou popular. Hoje, jQuery é a biblioteca JavaScript mais popular e é mantida pela Fundação jQuery, formada por uma grande equipe de voluntários. 
 
-No vídeo abaixo da Hostinger Brasil, é apresentado um pequeno resumo do que é jQuery e sua aplicabilidade. 
+No vídeo abaixo da Hostinger Brasil, é apresentado um pequeno resumo do que é o jQuery e sua aplicabilidade. 
 
 [![Assista ao vídeo](https://img.youtube.com/vi/AeCczbOctM8/maxresdefault.jpg)](https://www.youtube.com/watch?v=AeCczbOctM8)
 
