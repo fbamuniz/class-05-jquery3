@@ -2,7 +2,7 @@
 ![NPM](https://img.shields.io/npm/l/react)
 # Introdução
 
-Em 2006, John Resig era um desenvolvedor Web que trabalhava em seus próprios projetos. Ele estava frustrado com a dificuldade de escrever códigos em JavaScript que funcionasse em vários navegadores, então decidiu escrever sua própria biblioteca JavaScript para resolver os seus problemas. Eis que surgi o jQuery. Em 16 de janeiro de 2006, John Resig deu uma palestra sobre sua nova biblioteca no BarCamp em Nova York, para um pequeno grupo de desenvolvedores Web, e publicou isso em seu blog.
+Em 2006, [John Resig](https://en.wikipedia.org/wiki/John_Resig) era um desenvolvedor Web que trabalhava em seus próprios projetos. Ele estava frustrado com a dificuldade de escrever códigos em JavaScript que funcionasse em vários navegadores, então decidiu escrever sua própria [biblioteca](https://pt.wikipedia.org/wiki/Biblioteca_(computa%C3%A7%C3%A3o)) JavaScript para resolver os seus problemas. Eis que surgi o jQuery. Em 16 de janeiro de 2006, John Resig deu uma palestra sobre sua nova biblioteca no [BarCamp](https://pt.wikipedia.org/wiki/BarCamp) em Nova York, para um pequeno grupo de desenvolvedores Web, e publicou isso em seu blog.
 
 O jQuery é então uma biblioteca de funções em JavaScript que interage com o HTML, desenvolvida para simplificar os scripts interpretados no navegador do usuário (client-side). Usada por cerca de 77% dos 10 mil sites mais visitados do mundo, jQuery é a mais popular das bibliotecas JavaScript. O jQuery é uma biblioteca de código aberto (open source) e possui licença dual, fazendo uso da Licença MIT ou da GNU General Public License versão 2. 
 
