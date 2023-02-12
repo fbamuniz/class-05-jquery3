@@ -31,7 +31,7 @@ Com o jQuery temos que utilizar a função $() para encontrarmos um elemento HTM
 
 É denominada desse modo para ser fácil de decorar e o fato de se chamar $ evita a possibilidade de ocorrer conflitos com outras funções da biblioteca do usuário. Ocasionalmente podemos vir a utilizar alguma outra biblioteca que também tenha como uso uma função chamada $. Caso isso aconteça, podemos usar como alternativa a função jQuery().
 
-O construtor faz uso do seguinte parâmetro, onde o alvo é um seletor CSS para TAG, ID ou classe. Vejamos alguns exemplo de sua utilização.
+O construtor faz uso do seguinte parâmetro, onde o alvo é um seletor CSS para tag, id ou classe. Vejamos alguns exemplos de sua utilização.
 ```javascript
 $('h1')
 $('p')
@@ -49,7 +49,7 @@ No vídeo abaixo da Hostinger Brasil, é apresentado um pequeno resumo do que é
 - Pausa para a história: como John criou o jQuery? Khan Academy, disponível em: [https://pt.khanacademy.org](https://pt.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery). Acesso em: 28 de jan. de 2023.
 - jQuery Tutorial. Devmedia, disponível em: [https://www.devmedia.com.br](https://www.devmedia.com.br/jquery-tutorial/27299). Acesso em: 28 de jan. de 2023.
 
-# Como executar
+## Como executar
 
 Pré-requisitos: 
 - Visual Studio Code
@@ -61,10 +61,18 @@ git clone https://github.com/fbamuniz/class-04-jquery3.git
 
 ```
 
-# Bibliografia das aulas
-
+## Bibliografia Básica 
+- MEYER, E. S. CSS - técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.
+- POWERS, S. Aprendendo JavaScript. São Paulo: Novatec, 2010.
+- PETRUCELLI, E. E. HTML5, CSS e JavaScript. Brasília: NT Editora, 2019.
 - DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta Books. 2016.
-- MEYER, E. S. CSS – técnicas profissionais para um layout moderno. Porto Alegre: Bookman, 2011.
+- SILVERMAN, R.E. Git: Guia prático. São Paulo: Novatec, 2019.
+- GRINBERG, M. Desenvolvimento web com Flask: Desenvolvendo aplicações web com Python. São Paulo: Novatec, 2019.
+
+## Bibliografia Complementar:
+- GOMES, A. L. XHTML/CSS: criação de páginas web (Informática). São Paulo: Editora Senac, 2019.
+- QUIERELLI, D. A. Criando sites com HTML-CSS-PHP: Construindo um projeto - Iniciante. Joinville: Clube dos Autores, 2012.
+- TITTEL, E., NOBLE, J. HTML, XHTML e CSS Para Leigos. Rio de Janeiro: Alta Books, 2014
 
 # Autor
 
